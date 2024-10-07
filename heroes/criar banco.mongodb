@@ -111,5 +111,5 @@ db.heroes.deleteOne({ _id: 2 })
 db.heroes.deleteMany({ universo: 'DC' })
 db.heroes.deleteMany({ time: 'Vingadores' })
 
--- Como concertar a linha no Word
+-- Como consertar a linha no Word
 Cole tudo e clique em substituir ou Ctrl + U após isso escreva '^p' e clique em substituir tudo
